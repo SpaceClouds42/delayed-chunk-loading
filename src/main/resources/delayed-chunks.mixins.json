@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "us.spaceclouds42.delayed.chunks.mixin",
+  "compatibilityLevel": "JAVA_16",
+
+  "mixins": [
+    "EmptyJavaMixin"
+  ],
+
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
